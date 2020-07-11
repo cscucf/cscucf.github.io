@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
   
-# Our custom settings
+# Website information
 title: Cognitive Sciences Club @ UCF
 email: cscucf@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -32,6 +32,11 @@ github_username:  csc-ucf
 theme: minima
 plugins:
   - jekyll-feed
+
+# Page settings
+header_pages:
+  - about.md
+  - people.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
