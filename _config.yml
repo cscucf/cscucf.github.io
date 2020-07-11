@@ -29,7 +29,7 @@ twitter_username: cscucf
 github_username:  csc-ucf
 
 # Build settings
-theme: minima
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
