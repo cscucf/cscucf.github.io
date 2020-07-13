@@ -3,21 +3,21 @@ layout: page
 title: People
 permalink: /people/
 ---
-**Pia Nelson (President)**
+# Pia Nelson (President)
 
 ![Papa John's Face](/assets/papajohn.jpg){:class="img-responsive portrait"}
 
 The day of reckoning is coming.
 
 
-**Bryan Medina (Vice President)**
+# Bryan Medina (Vice President)
 
 ![Bryan's face](/assets/medina.png){:class="img-responsive portrait"}
 
 Bryan Medina is a Senior at UCF, majoring in Computer Science and Mathematics. His research interests include human audition, deep learning, and computational neuroscience. He is deeply interested in uncovering the neural mechanisms that make human perception of sound possible, using recent advances in deep learning. He wishes to pursue a Ph.D. in Computational Neuroscience.
 
 
-**Samuel Rincon (Treasurer)**
+# Samuel Rincon (Treasurer)
 
 ![Sam's face](/assets/samuel.png){:class="img-responsive portrait"}
 
@@ -25,7 +25,7 @@ Samuel Rincon is a Senior at UCF, majoring in Psychology and specializing in neu
 
 
 
-**Camila Acevedo (Secretary)**
+# Camila Acevedo (Secretary)
 
 ![Camila's face](/assets/camila.png){:class="img-responsive portrait"}
 
