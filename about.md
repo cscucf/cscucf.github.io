@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
+title: Welcome!
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to the Cognitive Sciences Club @ UCF Website! 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+&lt; insert nice things to say here &gt;
 
 
-[jekyll-organization]: https://github.com/jekyll
+If you're a new member, sign up [here](https://forms.gle/2s7meGt1SExyFtxK7).
+
+If you have suggestions of how to make the club better, please fill [this](https://forms.gle/Q9Ez2Rie7TBEQmbk9) form out!
