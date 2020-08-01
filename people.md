@@ -3,13 +3,7 @@ layout: page
 title: People
 permalink: /people/
 ---
-<<<<<<< HEAD
-=======
-# Pia Nelson (President)
->>>>>>> 39ed7b8280b6e9f3d6dea050b32c143b753ecc79
-
 <style>
-
 
 img {
     border-radius: 8px;
@@ -20,14 +14,10 @@ img {
     margin-left: auto;
 }
 
-<<<<<<< HEAD
 body {
     text-align: left;
     margin-left: 1;
 }
-=======
-# Bryan Medina (Vice President)
->>>>>>> 39ed7b8280b6e9f3d6dea050b32c143b753ecc79
 
 h1 {
   display: block;
@@ -44,7 +34,6 @@ p > strong {
   right: 10px;
 }
 
-<<<<<<< HEAD
 p > img {
   margin-bottom: 0.67em;
   left: 10em;
@@ -52,10 +41,6 @@ p > img {
   height: auto;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-=======
-# Samuel Rincon (Treasurer)
->>>>>>> 39ed7b8280b6e9f3d6dea050b32c143b753ecc79
-
 </style>
 
 **Pia Nelson (President)**
@@ -63,20 +48,20 @@ p > img {
 Bryan Medina is a Senior at UCF, majoring in Computer Science and Mathematics. His research interests include human audition, deep learning, and computational neuroscience. He is deeply interested in uncovering the neural mechanisms that make human perception of sound possible, using recent advances in deep learning. He wishes to pursue a Ph.D. in Computational Neuroscience.The day of reckoning is coming. <br/><br/>
 
 
-**Bryan Medina (Vice-President)**
+**[Bryan Medina (Vice-President)](https://bjmedina.github.io/)**
 ![Bryan's Face](/assets/medina.png)
 Bryan Medina is a Senior at UCF, majoring in Computer Science and Mathematics. His research interests include human audition, deep learning, and computational neuroscience. He is deeply interested in uncovering the neural mechanisms that make human perception of sound possible, using recent advances in deep learning. He wishes to pursue a Ph.D. in Computational Neuroscience.  <br/><br/>
 
-<<<<<<< HEAD
-=======
-# Camila Acevedo (Secretary)
->>>>>>> 39ed7b8280b6e9f3d6dea050b32c143b753ecc79
 
 **Samuel Rincon (Treasurer)**
 ![Sam's face](/assets/samuel.png)
 Samuel Rincon is a Senior at UCF, majoring in Psychology and specializing in neuroscience. His research interests include neuroimaging, psychiatric populations, and computational methods. He seeks to use computational methods, namely graph theory,  to see possible functional and network level changes in psychiatric populations. He wishes to pursue a Ph.D. in Neuroscience.  <br/><br/>
 
-**Camila Acevedo (Secretary)**
+**Laila Johnston (Secretary)**
+![Laila's face](/assets/laila.jpeg)
+Laila Johnston is a Junior at UCF, majoring in Mathematics. Her research interests include philosophy, cognitive science, artificial intelligence, and computational neuroscience. She has done research in human causal learning and seeks to expand her knowledge of the neural and cognitive mechanisms of human thought and language. She wishes to pursue a Ph.D. in Computational Neuroscience.  <br/><br/>
+
+**Camila Acevedo (Social Media Queen)**
 ![Camila's face](/assets/camila.png)
 Camila Acevedo-Carrillo is a Junior at UCF, majoring in Computer Science. Her research interests include cognitive science, assistive technology, civic media, and city science/urban planning. She has worked on developing classification methods using data from damage events to developing a mathematical model that enhances micro-mobility devices. She wishes to pursue a Ph.D. in Media Arts and Sciences.  <br/><br/>
 
