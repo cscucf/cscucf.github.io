@@ -3,6 +3,10 @@ layout: page
 title: People
 permalink: /people/
 ---
+<<<<<<< HEAD
+=======
+# Pia Nelson (President)
+>>>>>>> 39ed7b8280b6e9f3d6dea050b32c143b753ecc79
 
 <style>
 
@@ -16,10 +20,14 @@ img {
     margin-left: auto;
 }
 
+<<<<<<< HEAD
 body {
     text-align: left;
     margin-left: 1;
 }
+=======
+# Bryan Medina (Vice President)
+>>>>>>> 39ed7b8280b6e9f3d6dea050b32c143b753ecc79
 
 h1 {
   display: block;
@@ -36,6 +44,7 @@ p > strong {
   right: 10px;
 }
 
+<<<<<<< HEAD
 p > img {
   margin-bottom: 0.67em;
   left: 10em;
@@ -43,6 +52,9 @@ p > img {
   height: auto;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+=======
+# Samuel Rincon (Treasurer)
+>>>>>>> 39ed7b8280b6e9f3d6dea050b32c143b753ecc79
 
 </style>
 
@@ -55,6 +67,10 @@ Bryan Medina is a Senior at UCF, majoring in Computer Science and Mathematics. H
 ![Bryan's Face](/assets/medina.png)
 Bryan Medina is a Senior at UCF, majoring in Computer Science and Mathematics. His research interests include human audition, deep learning, and computational neuroscience. He is deeply interested in uncovering the neural mechanisms that make human perception of sound possible, using recent advances in deep learning. He wishes to pursue a Ph.D. in Computational Neuroscience.  <br/><br/>
 
+<<<<<<< HEAD
+=======
+# Camila Acevedo (Secretary)
+>>>>>>> 39ed7b8280b6e9f3d6dea050b32c143b753ecc79
 
 **Samuel Rincon (Treasurer)**
 ![Sam's face](/assets/samuel.png)
