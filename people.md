@@ -6,6 +6,7 @@ permalink: /people/
 <style>
 
 img {
+    margin-right: 1.2em;
     border-radius: 8px;
     float: left;
     width: 200px;
@@ -28,6 +29,7 @@ h1 {
 p {
   float: left;
   right: 10px;
+  left: 100px;
 }
 
 p > strong {
