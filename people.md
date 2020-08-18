@@ -46,12 +46,12 @@ p > img {
 
 **Pia Nelson (President)**
 ![Papa John's Face](/assets/papajohn.jpg)
-Bryan Medina is a Senior at UCF, majoring in Computer Science and Mathematics. His research interests include human audition, deep learning, and computational neuroscience. He is deeply interested in uncovering the neural mechanisms that make human perception of sound possible, using recent advances in deep learning. He wishes to pursue a Ph.D. in Computational Neuroscience.The day of reckoning is coming. <br/><br/>
+Pia Nelson is a Senior at UCF, majoring in Computer Science and minoring in Psychology. Her research interests include cognitive science, human-computer interaction and human behavior. She would like to live in a van, exploring the mountains of Canada. <br/><br/>
 
 
 **[Bryan Medina (Vice-President)](https://bjmedina.github.io/)**
 ![Bryan's Face](/assets/medina.png)
-Bryan Medina is a Senior at UCF, majoring in Computer Science and Mathematics. His research interests include human audition, deep learning, and computational neuroscience. He is deeply interested in uncovering the neural mechanisms that make human perception of sound possible, using recent advances in deep learning. He wishes to pursue a Ph.D. in Computational Neuroscience.  <br/><br/>
+Bryan Medina is a Senior at UCF, majoring in Computer Science and minoring in Cognitive Sciences and Mathematics. His research interests include human audition, deep learning, and computational neuroscience. He is deeply interested in uncovering the neural mechanisms that make human perception of sound possible, using recent advances in deep learning. He wishes to pursue a Ph.D. in Computational Neuroscience.  <br/><br/>
 
 
 **Samuel Rincon (Treasurer)**
