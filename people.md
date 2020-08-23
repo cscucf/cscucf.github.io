@@ -46,7 +46,7 @@ p > img {
 
 **Pia Nelson (President)**
 ![Papa John's Face](/assets/papajohn.jpg)
-Pia Nelson is a Senior at UCF, majoring in Computer Science and minoring in Psychology. Her research interests include cognitive science, human-computer interaction and human behavior. She would like to live in a van, exploring the mountains of Canada. <br/><br/>
+Pia Nelson is a Senior at UCF, majoring in Computer Science and minoring in Psychology. Her research interests include cognitive science, human-computer interaction and human behavior. She would like to pursue a career in User Experience Research and one day live in a van, exploring the mountains of Canada. <br/><br/>
 
 
 **[Bryan Medina (Vice-President)](https://bjmedina.github.io/)**
