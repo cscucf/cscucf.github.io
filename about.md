@@ -4,7 +4,7 @@ title: Welcome!
 permalink: /about/
 ---
 
-Welcome to the Cognitive Sciences Club @ UCF Website! uk
+Welcome to the Cognitive Sciences Club @ UCF Website! 
 
 Cognitive Sciences Club is a student organization created to bring people interested in the cognitive sciences together and provide them with resources to learn more about the field and meet similarly-minded individuals. We look forward to getting to know you and your interests. 
 
