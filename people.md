@@ -54,7 +54,7 @@ Pia Nelson is a Senior at UCF, majoring in Computer Science and minoring in Psyc
 Bryan Medina is a Senior at UCF, majoring in Computer Science and minoring in Cognitive Sciences and Mathematics. His research interests include human audition, deep learning, and computational neuroscience. He is deeply interested in uncovering the neural mechanisms that make human perception of sound possible, using recent advances in deep learning. He wishes to pursue a Ph.D. in Computational Neuroscience.  <br/><br/>
 
 
-**Samuel Rincon (Treasurer)**
+**[Samuel Rincon (Treasurer)](https://samuelnaranjo654.wixsite.com/samuelnr)**
 ![Sam's face](/assets/samuel.png)
 Samuel Rincon is a Senior at UCF, majoring in Psychology and specializing in neuroscience. His research interests include neuroimaging, psychiatric populations, and computational methods. He seeks to use computational methods, namely graph theory,  to see possible functional and network level changes in psychiatric populations. He wishes to pursue a Ph.D. in Neuroscience.  <br/><br/>
 
